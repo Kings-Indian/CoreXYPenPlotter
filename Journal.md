@@ -52,3 +52,45 @@ Any thoughts or other design constraints I should weigh?
 
 took abt 4 hrs
 
+
+
+Some belt designs, some of them are messy bc I made destroyed made destroyed some until I figured the last one would work (my chromebook dont got github bru)
+
+![image](https://github.com/user-attachments/assets/3907f6d1-2bb7-49df-8853-7a6ff440a2af)
+
+(the rest i deleted in school)
+
+![image](https://github.com/user-attachments/assets/de36e10f-8782-48bf-81cc-476447ad917e)
+
+I perched on this after pondering that perfectly perpendicular pulleys aren't particularly positive.
+
+I also sketched several structure samples, settling on the sleekest style since it spares more space for my motor while still supporting the belts sufficiently. It stays surprisingly strong.
+
+![image](https://github.com/user-attachments/assets/1ca910ca-3ec6-4d11-a1bb-0e9af9227aeb)
+ 
+![image](https://github.com/user-attachments/assets/d4e1f0e9-28b1-4b31-8632-02c233a82243)
+
+This is the final one, giving the belts enough room.
+![image](https://github.com/user-attachments/assets/0eac82b0-071a-4ddd-8b1c-b7807469a56c)
+
+I also made a sort of basic sketch and sorted the idea that I will have a toolchanging toolhead as well as a "normal" toolhead.
+
+Here is the organization I landed on:
+
+1. Layer one: 3D printed clips for belts (tension with zipties) + Linear rail
+2. Linear block
+3. Rack (pinion is nema 14)
+4 a. tensioning writing utensil , abt 20 mm wide bore,  (tighen a screw) b. toolchanger marker holder
+
+![image](https://github.com/user-attachments/assets/61e2efc2-8a47-4f38-ba42-8922a455d0dc)
+
+fixed orientation (1.5 hours (basically had to redo everything)): 
+![image](https://github.com/user-attachments/assets/b05a9ecb-3ce8-4c73-b5ce-252aac884c4e)
+
+For tensioning, the idea is that theres a loop on both sides thats closed by a zip tie. I should be able to pull on the stepper motors to tighten it by pulling on the stepper motor. It will be fastened by t nuts to let this happen. I prefer this over belt-lock prints that I can screw on for ease-of-user due to less disassembly
+
+
+
+
+
+
