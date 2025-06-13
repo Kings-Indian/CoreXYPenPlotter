@@ -89,7 +89,28 @@ fixed orientation (1.5 hours (basically had to redo everything)):
 
 For tensioning, the idea is that theres a loop on both sides thats closed by a zip tie. I should be able to pull on the stepper motors to tighten it by pulling on the stepper motor. It will be fastened by t nuts to let this happen. I prefer this over belt-lock prints that I can screw on for ease-of-user due to less disassembly
 
+6/13
 
+I made the tensioner, it wwill be cut out of 0.25 inch thick aluminum.
+
+V1:
+
+![image](https://github.com/user-attachments/assets/2868b47a-bdad-4cd3-a1e4-a7572213c212)
+
+Forgot abt the other belt
+
+
+
+Added other belt
+
+Instead of mgn12 ima use an mgn9 to match the hole spacing and I dont need a 12 for the toolhead
+
+Cleaned up CAD Features :D
+![image](https://github.com/user-attachments/assets/ed2f377d-9182-4786-9b36-4249e64253c3)
+
+Cool pick in perspective 
+
+![image](https://github.com/user-attachments/assets/c2ebfb21-29a6-4277-8411-073d088bcbcf)
 
 
 
