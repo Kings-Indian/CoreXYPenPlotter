@@ -138,6 +138,11 @@ realization that I need to swap the extruisions for the motor :( (gotta redo evb
 
 ![image](https://github.com/user-attachments/assets/4967c3f1-3cef-47a5-b0b7-29c0d33e330c)
 
+FINALLY restored and redid everything :D
+
+![image](https://github.com/user-attachments/assets/aba45555-a889-451a-92ea-4eca764a6b81)
+
+the point was for the pully to be tightened by pulling on the motors!
 
 
 
