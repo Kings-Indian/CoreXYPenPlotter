@@ -124,3 +124,9 @@ I also started creatig the corner brackets
 
 ![image](https://github.com/user-attachments/assets/79f96a90-8c79-4886-9aab-104f348447ce)
 
+6/14
+
+Completed Side-Profile for Corner Brackets for pulleys!
+
+![image](https://github.com/user-attachments/assets/03bcc4f6-8ac4-49ec-a5df-83c09f4f3d3a)
+
