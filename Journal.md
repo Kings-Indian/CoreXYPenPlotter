@@ -134,8 +134,7 @@ Completed all Idler Mounts (excluding fillet-finishings)
 
 ![image](https://github.com/user-attachments/assets/0923b8c5-155c-4bf5-8058-65d633554e1c)
 
-realization that I need to swap the extruisions for the motor :(
+realization that I need to swap the extruisions for the motor :( (gotta redo evberything)
 
-![image](https://github.com/user-attachments/assets/5963e6b7-194e-4541-b4ca-6d008afbafe6)
 
 
