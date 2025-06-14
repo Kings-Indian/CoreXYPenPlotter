@@ -130,3 +130,8 @@ Completed Side-Profile for Corner Brackets for pulleys!
 
 ![image](https://github.com/user-attachments/assets/03bcc4f6-8ac4-49ec-a5df-83c09f4f3d3a)
 
+Completed all Idler Mounts (excluding fillet-finishings)
+
+![image](https://github.com/user-attachments/assets/0923b8c5-155c-4bf5-8058-65d633554e1c)
+
+
