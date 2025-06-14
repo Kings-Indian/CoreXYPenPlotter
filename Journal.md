@@ -112,6 +112,10 @@ Cool pick in perspective
 
 ![image](https://github.com/user-attachments/assets/c2ebfb21-29a6-4277-8411-073d088bcbcf)
 
+Thewse are the X-axis idlers 
+
+![image](https://github.com/user-attachments/assets/9d818c5e-a998-4032-af84-bba818e88601)
+
 
 
 
