@@ -115,7 +115,12 @@ Cool pick in perspective
 Thewse are the X-axis idlers 
 
 ![image](https://github.com/user-attachments/assets/9d818c5e-a998-4032-af84-bba818e88601)
+This screws into the extrusion and the linear rail while not interfereing with the belt. The cap attaches to the extrusion via t nut as well. 
+![image](https://github.com/user-attachments/assets/60ed9c9a-d8b5-4584-a96b-d44a4413e1a9)
 
+I also started creatig the corner brackets
 
+![image](https://github.com/user-attachments/assets/ed98a62e-90b3-436d-89a7-8a6d174b5f05)
 
+![image](https://github.com/user-attachments/assets/79f96a90-8c79-4886-9aab-104f348447ce)
 
