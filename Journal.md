@@ -144,5 +144,9 @@ FINALLY restored and redid everything :D
 
 the point was for the pully to be tightened by pulling on the motors!
 
+6/15/25
+A and B Motor Mount sketch!
+
+![image](https://github.com/user-attachments/assets/bbb1a9f1-90a4-4aad-ad6c-72ab5f20b073)
 
 
