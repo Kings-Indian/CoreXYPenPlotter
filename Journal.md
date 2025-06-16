@@ -149,4 +149,9 @@ A and B Motor Mount sketch!
 
 ![image](https://github.com/user-attachments/assets/bbb1a9f1-90a4-4aad-ad6c-72ab5f20b073)
 
+Added mouting holes!
+![image](https://github.com/user-attachments/assets/22793519-2f76-4cd9-a4c7-06d4d92aca13)|
+
+
+
 
