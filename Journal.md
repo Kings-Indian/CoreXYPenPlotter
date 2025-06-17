@@ -153,5 +153,18 @@ Added mouting holes!
 ![image](https://github.com/user-attachments/assets/22793519-2f76-4cd9-a4c7-06d4d92aca13)|
 
 
+6/16/25
+This is currently physically unstable
 
+![image](https://github.com/user-attachments/assets/8aa4461c-60fb-41af-a24a-811bd04c4874)
 
+In order for the 3D printer to be stable, it must either:
+1. Have legs on all sides. This could cause issues if the 3d printer shakes, and doesnt look clean to me. Also, I have fears that the bed not being directly on the floor can cause problems. 
+2. have 4040 aluminum extrusions
+
+I therefore changed the aluminum mounts to 4040, forcing me to fix the errors + modify the idler mounts (since every mate connecter got freaky). 
+
+I also decided to add more supports to the corner brackets:
+![image](https://github.com/user-attachments/assets/d29b71f5-8ec5-43f2-9272-b691c5da4d67)
+
+![image](https://github.com/user-attachments/assets/72bd15ac-b926-4fb0-9da0-d3d013afcd34)
