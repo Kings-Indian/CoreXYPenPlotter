@@ -168,3 +168,21 @@ I also decided to add more supports to the corner brackets:
 ![image](https://github.com/user-attachments/assets/d29b71f5-8ec5-43f2-9272-b691c5da4d67)
 
 ![image](https://github.com/user-attachments/assets/72bd15ac-b926-4fb0-9da0-d3d013afcd34)
+
+6/16
+Was originally going to use some type of gripper on the servo
+
+But instead, Im wondering if I can use a kinematic coupling with a “key” where the servo horn  can rotate into the key and hold onto it
+
+6/19
+
+after making a sketch of the toolhead, I realized that this strategy is not liekly the best. 
+![image](https://github.com/user-attachments/assets/3db16fe5-430f-46bb-a981-daca61dd699d)
+The tetahedron is very small and so would be the sphere. Unless I used metal parts, it would be very supsectable to damage 
+![image](https://github.com/user-attachments/assets/3260c33a-f2fc-4b4f-a96e-b7f3b60e282e)
+I am also considering using a servo like https://www.aliexpress.us/item/3256806709778108.html?spm=a2g0o.productlist.main.4.5071xbVsxbVssA&aem_p4p_detail=202506191508486244551982471320002564574&algo_pvid=b2786664-823f-41db-90b0-5a2d35c8ef26&algo_exp_id=b2786664-823f-41db-90b0-5a2d35c8ef26-3&pdp_ext_f=%7B%22order%22%3A%221471%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%21158.12%2144.44%21%21%211131.82%21318.07%21%40210337c117503709284441969e2c57%2112000038822514200%21sea%21US%210%21ABX&curPageLogUid=ThSRcALWRBNI&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202506191508486244551982471320002564574_1 instead of the pancke motor. I would switch to a design like:
+![image](https://github.com/user-attachments/assets/34c814a3-6e8c-41eb-8a75-4b64c041f867)
+However, while this allows me to do what I need to with this design, I fear that tolerance may be an issue with an up and down motion. If its too tight and it rotates, it might rub and grabually wear away. 
+
+
+
