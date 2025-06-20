@@ -184,5 +184,13 @@ I am also considering using a servo like https://www.aliexpress.us/item/32568067
 ![image](https://github.com/user-attachments/assets/34c814a3-6e8c-41eb-8a75-4b64c041f867)
 However, while this allows me to do what I need to with this design, I fear that tolerance may be an issue with an up and down motion. If its too tight and it rotates, it might rub and grabually wear away. 
 
+However, instead of having the toolchanger and the default tighener toolhead, why dont I make them modular?
+I deleted the sketech and decided to start over with this in mind. 
+I can either keep the rack on the linear slide, or I ican make the rack modular with each type of module. I dont see the benifit of thr rack being a part of the linear slide, and it adds parts thus potentially making this more prone to failure. However, since the position of the rack remains static, I should design that first.  I made it 6 mm to match some brass threaded nut inserts that I found online. Additionally, to match different types of writing utensils, I will make one with a 20mm bore and a 10 mm bored
+
+![image](https://github.com/user-attachments/assets/bbf35902-b932-48c5-8fdc-3a788fe041e3)
+![image](https://github.com/user-attachments/assets/43c9d309-0f81-49f6-ba93-d0bb290780db)
 
 
+
+then, to make the pen holder, 
