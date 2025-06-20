@@ -188,9 +188,11 @@ However, instead of having the toolchanger and the default tighener toolhead, wh
 I deleted the sketech and decided to start over with this in mind. 
 I can either keep the rack on the linear slide, or I ican make the rack modular with each type of module. I dont see the benifit of thr rack being a part of the linear slide, and it adds parts thus potentially making this more prone to failure. However, since the position of the rack remains static, I should design that first.  I made it 6 mm to match some brass threaded nut inserts that I found online. Additionally, to match different types of writing utensils, I will make one with a 20mm bore and a 10 mm bored
 
-![image](https://github.com/user-attachments/assets/bbf35902-b932-48c5-8fdc-3a788fe041e3)
-![image](https://github.com/user-attachments/assets/43c9d309-0f81-49f6-ba93-d0bb290780db)
+![image](https://github.com/user-attachments/assets/b8b76f36-94a8-4d02-a64a-807b06368468)
 
+![image](https://github.com/user-attachments/assets/c71763e5-16b5-41b1-a539-30bc0782b2ce)
 
+![image](https://github.com/user-attachments/assets/a559d490-f92e-41cf-8dfa-ed6a33cb1ba4)
 
-then, to make the pen holder, 
+![image](https://github.com/user-attachments/assets/45c10634-1063-4821-a4ae-186bac588c2f)
+
