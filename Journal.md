@@ -194,5 +194,5 @@ I can either keep the rack on the linear slide, or I ican make the rack modular 
 
 ![image](https://github.com/user-attachments/assets/a559d490-f92e-41cf-8dfa-ed6a33cb1ba4)
 
-![image](https://github.com/user-attachments/assets/45c10634-1063-4821-a4ae-186bac588c2f)
+![image](https://github.com/user-attachments/assets/ef0c32cf-3de3-450a-9e57-720b590d15d7)
 
