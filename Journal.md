@@ -3,7 +3,7 @@
 I made this basic model, after realising I can put it over the extrusion. In the future, I may change the extrusion to 2020 instead. I think I might be able to route the belt over everything|
 ![image](https://github.com/user-attachments/assets/7ee92f35-c8cd-4393-a5c8-aab720334105)
 
-I did a lot of research before choosing this simple design so (although it was like 5 hrs) I can decrease if thats dumb.
+Total time spent: 5 hours
 
 
 6/11
@@ -45,12 +45,7 @@ Thinking of a few different toolhead options:
 - **Pros:** Very lightweight  
 **Example:** [Printables Model](https://www.printables.com/model/734327-extruh-pen-plotter)
 
----
-
-## Open Feedback & Considerations  
-Any thoughts or other design constraints I should weigh?
-
-took abt 4 hrs
+Total time spent: 4 hours
 
 
 
@@ -88,7 +83,7 @@ fixed orientation (1.5 hours (basically had to redo everything)):
 ![image](https://github.com/user-attachments/assets/b05a9ecb-3ce8-4c73-b5ce-252aac884c4e)
 
 For tensioning, the idea is that theres a loop on both sides thats closed by a zip tie. I should be able to pull on the stepper motors to tighten it by pulling on the stepper motor. It will be fastened by t nuts to let this happen. I prefer this over belt-lock prints that I can screw on for ease-of-user due to less disassembly
-
+Total time spent: 7h
 6/13
 
 I made the tensioner, it wwill be cut out of 0.25 inch thick aluminum.
@@ -123,7 +118,7 @@ I also started creatig the corner brackets
 ![image](https://github.com/user-attachments/assets/ed98a62e-90b3-436d-89a7-8a6d174b5f05)
 
 ![image](https://github.com/user-attachments/assets/79f96a90-8c79-4886-9aab-104f348447ce)
-
+Total time spent: 8h
 6/14
 
 Completed Side-Profile for Corner Brackets for pulleys!
