@@ -1,4 +1,4 @@
-6/9
+<img width="991" height="985" alt="image" src="https://github.com/user-attachments/assets/29383ec6-5434-4a80-b772-5e62d83cef75" />6/9
 
 I made this basic model, after realising I can put it over the extrusion. In the future, I may change the extrusion to 2020 instead. I think I might be able to route the belt over everything|
 ![image](https://github.com/user-attachments/assets/7ee92f35-c8cd-4393-a5c8-aab720334105)
@@ -190,4 +190,19 @@ I can either keep the rack on the linear slide, or I ican make the rack modular 
 ![image](https://github.com/user-attachments/assets/a559d490-f92e-41cf-8dfa-ed6a33cb1ba4)
 
 ![image](https://github.com/user-attachments/assets/ef0c32cf-3de3-450a-9e57-720b590d15d7)
+
+
+
+7/27/2025
+I made the Motor Mount:
+<img width="508" height="739" alt="image" src="https://github.com/user-attachments/assets/b5ecaa3e-3b15-44b3-8ad2-75f761103f04" />
+<img width="991" height="985" alt="image" src="https://github.com/user-attachments/assets/f3dacfb9-a8b7-4017-b43e-05a83d1c2d3f" />
+
+For the control board, I decided to us a btt skr e3 and a pi 02w so I can also control it with klipper. Here is the mount:
+<img width="1735" height="694" alt="image" src="https://github.com/user-attachments/assets/fb24607a-e02b-4254-8bb8-7c4d3a406fc9" />
+For the power supply, I decided to use a meanwell lrs 24v 200w. 
+Final Model:
+
+<img width="1529" height="704" alt="image" src="https://github.com/user-attachments/assets/ae473abd-ce86-48b3-9f4f-3e2694eff881" />
+
 
