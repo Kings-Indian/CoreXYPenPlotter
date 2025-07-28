@@ -1,12 +1,19 @@
-<img width="991" height="985" alt="image" src="https://github.com/user-attachments/assets/29383ec6-5434-4a80-b772-5e62d83cef75" />6/9
+
+**Total Hours: 40 hours**
+
+---
+
+## 6/9 - Initial Basic Model Design (5 hours)
+
+<img width="991" height="985" alt="image" src="https://github.com/user-attachments/assets/29383ec6-5434-4a80-b772-5e62d83cef75" />
 
 I made this basic model, after realising I can put it over the extrusion. In the future, I may change the extrusion to 2020 instead. I think I might be able to route the belt over everything|
 ![image](https://github.com/user-attachments/assets/7ee92f35-c8cd-4393-a5c8-aab720334105)
 
-Total time spent: 5 hours
+---
 
+## 6/11 - Toolhead Concept Exploration (4 hours)
 
-6/11
 I make a list of designs for toolhead:
 
 # Pen Plotter Toolhead Concepts
@@ -15,39 +22,39 @@ Thinking of a few different toolhead options:
 
 ---
 
-## 1. Rotating  
+### 1. Rotating  
 **Issue:** May be troubling depending on the drawing utensil.  
 **Example:** [CreativeBloq: Best Pen Plotters](https://www.creativebloq.com/buying-guides/best-pen-plotters#section-the-best-budget-pen-plotter)
 
 ---
 
-## 2. Weird DVD-Type Thing (Using a Z Rod with Rod Supports)  
-**Issue:** Would require a *really light stepper motor* or similar. Alternative like worm gears might be needed, but they’re notoriously inefficient — Center of Mass could be problematic.  
+### 2. Weird DVD-Type Thing (Using a Z Rod with Rod Supports)  
+**Issue:** Would require a *really light stepper motor* or similar. Alternative like worm gears might be needed, but they're notoriously inefficient — Center of Mass could be problematic.  
 **Example:**  
 - [YouTube Demo 1](https://www.youtube.com/watch?v=jkPeM0btZVQ)  
 - [Main Inspiration (Shorts)](https://www.youtube.com/shorts/1ytApbsv8hw)
 
 ---
 
-## 3. Rack and Pinion  
+### 3. Rack and Pinion  
 **Notes:**  
 - If 3D printed: Risk of inaccuracy  
 - Not commonly seen implemented  
-- CNC’d custom version could be pricey — maybe ask robotics coach (potentially pay him)  
+- CNC'd custom version could be pricey — maybe ask robotics coach (potentially pay him)  
 - **Pros:** Gives lots of control — currently leading option
 
 ---
 
-## 4. Servo  
+### 4. Servo  
 **Notes:**  
 - Only supports 2 positions  
 - Feels messier in practice  
 - **Pros:** Very lightweight  
 **Example:** [Printables Model](https://www.printables.com/model/734327-extruh-pen-plotter)
 
-Total time spent: 4 hours
+---
 
-
+## 6/13 - Belt Tensioning System Design (7 hours)
 
 Some belt designs, some of them are messy bc I made destroyed made destroyed some until I figured the last one would work (my chromebook dont got github bru)
 
@@ -83,8 +90,10 @@ fixed orientation (1.5 hours (basically had to redo everything)):
 ![image](https://github.com/user-attachments/assets/b05a9ecb-3ce8-4c73-b5ce-252aac884c4e)
 
 For tensioning, the idea is that theres a loop on both sides thats closed by a zip tie. I should be able to pull on the stepper motors to tighten it by pulling on the stepper motor. It will be fastened by t nuts to let this happen. I prefer this over belt-lock prints that I can screw on for ease-of-user due to less disassembly
-Total time spent: 7h
-6/13
+
+---
+
+## 6/14 - Corner Brackets and Idler Mounts (8 hours)
 
 I made the tensioner, it wwill be cut out of 0.25 inch thick aluminum.
 
@@ -93,8 +102,6 @@ V1:
 ![image](https://github.com/user-attachments/assets/2868b47a-bdad-4cd3-a1e4-a7572213c212)
 
 Forgot abt the other belt
-
-
 
 Added other belt
 
@@ -118,8 +125,6 @@ I also started creatig the corner brackets
 ![image](https://github.com/user-attachments/assets/ed98a62e-90b3-436d-89a7-8a6d174b5f05)
 
 ![image](https://github.com/user-attachments/assets/79f96a90-8c79-4886-9aab-104f348447ce)
-Total time spent: 8h
-6/14
 
 Completed Side-Profile for Corner Brackets for pulleys!
 
@@ -139,16 +144,21 @@ FINALLY restored and redid everything :D
 
 the point was for the pully to be tightened by pulling on the motors!
 
-6/15/25
+---
+
+## 6/15 - Motor Mount Sketches (2 hours)
+
 A and B Motor Mount sketch!
 
 ![image](https://github.com/user-attachments/assets/bbb1a9f1-90a4-4aad-ad6c-72ab5f20b073)
 
 Added mouting holes!
-![image](https://github.com/user-attachments/assets/22793519-2f76-4cd9-a4c7-06d4d92aca13)|
+![image](https://github.com/user-attachments/assets/22756519-2f76-4cd9-a4c7-06d4d92aca13)
 
+---
 
-6/16/25
+## 6/16 - Frame Stability Improvements (4 hours)
+
 This is currently physically unstable
 
 ![image](https://github.com/user-attachments/assets/8aa4461c-60fb-41af-a24a-811bd04c4874)
@@ -164,12 +174,13 @@ I also decided to add more supports to the corner brackets:
 
 ![image](https://github.com/user-attachments/assets/72bd15ac-b926-4fb0-9da0-d3d013afcd34)
 
-6/16
 Was originally going to use some type of gripper on the servo
 
-But instead, Im wondering if I can use a kinematic coupling with a “key” where the servo horn  can rotate into the key and hold onto it
+But instead, Im wondering if I can use a kinematic coupling with a "key" where the servo horn  can rotate into the key and hold onto it
 
-6/19
+---
+
+## 6/19 - Toolhead Redesign and Modular Approach (6 hours)
 
 after making a sketch of the toolhead, I realized that this strategy is not liekly the best. 
 ![image](https://github.com/user-attachments/assets/3db16fe5-430f-46bb-a981-daca61dd699d)
@@ -191,9 +202,10 @@ I can either keep the rack on the linear slide, or I ican make the rack modular 
 
 ![image](https://github.com/user-attachments/assets/ef0c32cf-3de3-450a-9e57-720b590d15d7)
 
+---
 
+## 7/27 - Final Motor Mount and Electronics Integration (4 hours)
 
-7/27/2025
 I made the Motor Mount:
 <img width="508" height="739" alt="image" src="https://github.com/user-attachments/assets/b5ecaa3e-3b15-44b3-8ad2-75f761103f04" />
 <img width="991" height="985" alt="image" src="https://github.com/user-attachments/assets/f3dacfb9-a8b7-4017-b43e-05a83d1c2d3f" />
