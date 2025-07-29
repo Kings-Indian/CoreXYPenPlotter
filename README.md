@@ -1,6 +1,6 @@
 # CoreXYPenPlotter
 
-A pen plotter built with modular design principles, featuring a CoreXY motion system for various drawing applications.
+A pen plotter built with a CoreXY motion system.
 
 ## What is CoreXYPenPlotter?
 
