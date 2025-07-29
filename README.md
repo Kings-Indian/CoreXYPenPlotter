@@ -13,6 +13,10 @@ I created this pen plotter to:
 2. Not do any drawing-focused homework assignments. 
 3. Not write essays. 
 
+<img width="1529" height="704" alt="image" src="https://github.com/user-attachments/assets/bbf3fdb3-7ebf-4a3e-839f-6b1ec0af3ef0" />
+
+
+
 ## Bill of Materials
 | Component                 | Quantity | Description                 | Part Number         | Link                                                                 | Unit Price (USD) | Individual Cost (USD) | NJ Tax (6.625%) | Total Cost (USD) | Running Total (USD) |
 |--------------------------|----------|-----------------------------|---------------------|----------------------------------------------------------------------|------------------|------------------------|------------------|-------------------|----------------------|
