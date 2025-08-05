@@ -33,4 +33,4 @@ I created this pen plotter to:
 | Raspberry Pi Zero 2 W    | 1        | Single Board Computer       | RPI-Zero-2-W        | [Link](https://www.amazon.com/dp/B0DB2JBD9C)                         | 19.99            | 19.99                  | 1.32             | 21.31             | 198.92               |
 | Mean Well LRS-350-24     | 1        | 24V 350W Power Supply       | LRS-350-24          | [Link](https://www.aliexpress.com/item/1005001234567890/)           | 18.77            | 18.77                  | 1.24             | 20.01             | 218.93               |
 | BTT SKR Mini E3 V3.0     | 1        | 3D Printer Mainboard        | SKR-Mini-E3-V3      | [Link](https://www.aliexpress.com/item/1005001234567890/)           | 33.66            | 33.66                  | 2.23             | 35.89             | 254.82               |
-
+| Nema 14                  | 1        | Toolhead Motor              | Nema-14.            | Already Owned                                                       | 0                | 0                      | 0                | 0             | 254.82               |
