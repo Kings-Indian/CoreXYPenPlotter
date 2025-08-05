@@ -1,4 +1,9 @@
-
+---
+title: "CoreXY Pen Plotter"
+author: "Tanishq Goyal"
+description: "Its a CoreXY based pen plotter :D"
+created_at: "6/9/2025"
+---
 **Total Hours: 40 hours**
 
 ---
